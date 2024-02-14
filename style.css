@@ -113,6 +113,11 @@ body {
     font-size: 16px;
 }
 
+.affiliation-col-wide {
+    width: 100%; 
+    font-size: 16px;
+}
+
 .author-text {
     font-family: 'Open Sans',sans-serif;
     color: #333;
